@@ -1,4 +1,4 @@
-### Go一Gin
+### Go---Gin
 
 ---
 
@@ -10,7 +10,7 @@
 
 #### 2.中文文档：
 
-- Golang语言社区：https://mp.weixin.qq.com/s/3lXHhhqpa0od4xAGYzUJaQ，
+- Golang语言社区：https://mp.weixin.qq.com/s/3lXHhhqpa0od4xAGYzUJaQ
 - ningskyer.Github：https://github.com/ningskyer/gin-doc-cn
 
 #### 3.项目文档：
