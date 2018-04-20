@@ -18,6 +18,8 @@
 - go-gin-app：（gin—web）
   - Github：https://github.com/demo-apps/go-gin-app
   - Guide：https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin
+  - Github:https://github.com/EDDYCJY/go-gin-example
+  - Guide:https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md
 - gin-api-demo：
   - Github：https://github.com/sbecker/gin-api-demo
 - 基于gin+gorm开发的个人博客项目
@@ -40,7 +42,7 @@
   - Github：https://github.com/cgrant/gin-gorm-api-example
   - Guide：http://cgrant.io/tutorials/go/simple-crud-api-with-go-gin-and-gorm/
 - golang-grpc-gin：
-  - Github：https://github.com/pzhen/golang-grpc-gin
+  - Github：https://github.com/pzhen/golang-grpc-gin 
 
 
 
