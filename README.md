@@ -14,6 +14,9 @@
 - ningskyer.Github：https://github.com/ningskyer/gin-doc-cn
 
 #### 3.项目文档：
+- go-gin-example:(gin+gorm+redis)
+  - Github:https://github.com/EDDYCJY/go-gin-example/
+  - Guide:https://github.com/EDDYCJY/go-gin-example/blob/master/README_ZH.md
 
 - go-gin-app：（gin—web）
   - Github：https://github.com/demo-apps/go-gin-app
